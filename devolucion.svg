@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="18px" viewBox="0 0 18 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/devolución</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M2.605,0.72 L0.829,2.496 C0.6,2.726 0.6,3.099 0.829,3.329 L2.606,5.105 C2.717,5.215 2.864,5.276 3.022,5.276 C3.179,5.276 3.327,5.215 3.438,5.105 C3.548,4.993 3.61,4.845 3.61,4.689 C3.61,4.53 3.548,4.383 3.438,4.272 L2.667,3.501 L7.406,3.501 C8.551,3.501 9.481,4.432 9.481,5.576 C9.481,6.72 8.551,7.652 7.406,7.652 L4.814,7.652 C4.49,7.652 4.226,7.915 4.226,8.239 C4.226,8.564 4.49,8.828 4.814,8.828 L7.406,8.828 C9.199,8.828 10.658,7.369 10.658,5.576 C10.658,3.783 9.199,2.324 7.406,2.324 L2.667,2.324 L3.438,1.552 C3.548,1.441 3.61,1.294 3.61,1.136 C3.61,0.979 3.548,0.832 3.437,0.72 C3.327,0.609 3.178,0.548 3.022,0.548 C2.864,0.548 2.717,0.609 2.605,0.72 Z" id="path-1"></path>
+    </defs>
+    <g id="Simbolos" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Material/Row/Catacteristicas" transform="translate(-23.000000, -13.000000)">
+            <g id="icon/devolución">
+                <g transform="translate(20.000000, 10.000000)">
+                    <g>
+                        <rect id="bounds" x="0" y="0" width="24" height="24"></rect>
+                        <path d="M12,19.8 C7.699,19.8 4.2,16.301 4.2,12 C4.2,7.699 7.699,4.2 12,4.2 C16.301,4.2 19.8,7.699 19.8,12 C19.8,16.301 16.301,19.8 12,19.8 M12,3 C7.037,3 3,7.038 3,12 C3,16.963 7.037,21 12,21 C16.963,21 21,16.963 21,12 C21,7.038 16.963,3 12,3" id="Fill-1" fill="#333333"></path>
+                        <g id="Group-5" transform="translate(7.000000, 8.000000)">
+                            <mask id="mask-2" fill="white">
+                                <use xlink:href="#path-1"></use>
+                            </mask>
+                            <use id="Clip-4" fill="#009966" xlink:href="#path-1"></use>
+                            <polygon id="Fill-3" fill="#009966" mask="url(#mask-2)" points="-2.419 11.905 13.735 11.905 13.735 -2.529 -2.419 -2.529"></polygon>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
